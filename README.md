@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PMVigneshwari
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on webdevelopment
+- 🌱 I'm good at HTML5 and CSS3
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on webdevelopment projects / jobs.....
 
 <!---
 PMVigneshwari/PMVigneshwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
