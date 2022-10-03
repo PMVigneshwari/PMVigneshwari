@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PMVigneshwari.
-- 🌱 I'm good at HTML5 and CSS3,Bootstrap.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I'm good at HTML5 and CSS3,Bootstrap,ReactJS,ExpressJS,NodeJs,MySQL and MongoDB.
+- 🌱 I’m currently learning DSA and AWS.
 - 💞️ I’m looking to collaborate on webdevelopment projects / jobs.....
 
 <!---
