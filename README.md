@@ -1,5 +1,5 @@
 - ✌️ Hi, I’m @PMVigneshwari
-- ✨ I'm good at MERN Stack Developmen
+- ✨ I'm good at MERN Stack Development
 - 🏢 Working as Full Stack Developer  
 - 🌱 I’m currently learning WHMCS, AWS, DSA, System design and OOPS
 - 📬 I’m looking to collaborate on webdevelopment projects.....
