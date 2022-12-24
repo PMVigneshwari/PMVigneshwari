@@ -1,7 +1,7 @@
 - ✌️ Hi, I’m @PMVigneshwari
 - ✨ I'm good at MERN Stack Development
 - 🏢 Working as Full Stack Developer  
-- 🌱 I’m currently learning WHMCS, AWS, DSA, System design, Angular and OOPS
+- 🌱 I’m currently learning AWS, DSA, System design, Angular and OOPS
 - 📬 I’m looking to collaborate on webdevelopment projects.....
 
 <!---
