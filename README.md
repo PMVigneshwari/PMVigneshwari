@@ -1,6 +1,6 @@
 - ✌️ Hi, I’m @PMVigneshwari
 - ✨ I'm good at MERN Stack Development
-- 🏢 Working as Full Stack Developer  
+- 🏢 Looking for Full Stack Developer / Front end developer / Back end developer job (MERN stack)
 - 🌱 I’m currently learning AWS, DSA, System design and OOPS
 - 📬 I’m looking to collaborate on webdevelopment projects.....
 
