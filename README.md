@@ -1,6 +1,6 @@
 - ✌️ Hi, I’m @PMVigneshwari
 - ✨ I'm good at MERN Stack Development
-- 🏢 Looking for Full Stack / Front end / Back end developer job
+- 🏢 Looking for Front end developer job
 - 📜 Projects completed in front end :
       1) Netflix clone - login page : React bootstrap ;
       2) Book my show clone : Angular ;
